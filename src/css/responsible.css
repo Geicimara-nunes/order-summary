@@ -1,0 +1,46 @@
+@media (max-width: 468px) {
+
+    body {
+        background-image: url(../images/pattern-background-mobile.svg);
+    }
+
+    .illustration {
+        width: 310px;
+        height: 170px;
+    }
+
+    .text-card{
+        width: 310px;
+        height: 375px;
+        padding-right: 0;
+    }
+
+    .text {
+        width: 370px;
+    }
+
+    .text h1 {
+        height: 20px;
+        font-size: 20px;
+    }
+
+    .text p {
+        font-size: 15px;
+        width:310px;
+    }
+
+    .price-card {
+        width: 280px;
+        margin-left: 0;
+    }
+
+    .button {
+        width: 300px;
+        padding-top: 10px;
+    }
+
+    .btn-payment {
+        width: 270px;
+        margin-left: 15px;
+    }
+}
